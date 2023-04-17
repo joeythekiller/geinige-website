@@ -1,0 +1,55 @@
+body{
+    background-image: url(pexels-miguel-á-padriñán-255379.jpg);
+}
+
+
+.navigatie{
+    float: center;
+    font-size: 30px;
+    cursor: pointer;
+font: bold;
+}  
+  
+
+  
+  .thuispagina:hover{      
+    transition: .6s ease all;
+    transition: .6s ease all;
+    transform: translateY(-8px);
+    }
+ 
+    .over_mij:hover{      
+    transition: .6s ease all;
+    transition: .6s ease all;
+    transform: translateY(-7px);
+    }
+
+    .osu:hover{      
+    transition: .6s ease all;
+    transition: .6s ease all;
+    transform: translateY(-8px);
+    }
+
+    .contact:hover{      
+    transition: .6s ease all;
+    transition: .6s ease all;
+    transform: translateY(-8px);
+    }
+
+.contact{
+    padding-top: 0px;
+    margin-top: 0px;
+    font-size: xx-large;
+
+}
+button{
+    size: 50cm;
+    transition: .5s ease all;
+    background-color:#A6B7A3;
+}
+
+button:hover {
+    transition: .5s ease all;
+    transform: translateY(-5px);
+    background-color:#A6B7A3;
+}
